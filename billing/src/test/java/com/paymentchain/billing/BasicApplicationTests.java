@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		system.out.println("Hola Mundo adasdsa");
+
 	}
 
 }
