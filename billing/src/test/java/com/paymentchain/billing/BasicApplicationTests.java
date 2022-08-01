@@ -11,7 +11,8 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+		String mnj="mensaje 1";
+		Assert.assertNotNull(mnj);
 	}
 
 }
